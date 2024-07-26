@@ -1,0 +1,3 @@
+[submodule "projects/interactive-web-lecture"]
+	path = projects/interactive-web-lecture
+	url = git@github.com:jyk-s-lab/interactive-web-lecture.git
